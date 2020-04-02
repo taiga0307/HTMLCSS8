@@ -1,0 +1,105 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #6c6b6b;
+}
+
+.pagination{
+	margin: 50px auto;
+	width: 960px;
+}
+.pagination p:nth-child(1){
+	background-color: #EEEEEE;
+	padding: 20px;
+}
+.pagination p:nth-child(2){
+	padding: 20px;
+}
+.pagination p:nth-child(3){
+	background-color: #EEEEEE;
+	padding: 20px;
+}
+.pagination p:nth-child(4){
+	padding: 20px;
+}
+.pagination p:nth-child(5){
+	background-color: #EEEEEE;
+	padding: 20px;
+}
+.pagination p:nth-child(6){
+	padding: 20px;
+}
+.pagination p:nth-child(7){
+	background-color: #EEEEEE;
+	padding: 20px;
+}
+
+.contents{
+	margin: 50px auto;
+	width: 960px;
+}
+.box1{
+	height: 200px;
+	width: 30%;
+	margin: 0 5% 40px 0;
+	background-color: red;
+	float: left;
+}
+.box2{
+	height: 200px;
+	width: 30%;
+	margin: 0 5% 40px 0;
+	background-color: orange;
+	float: left;
+}
+.box3{
+	height: 200px;
+	width: 30%;
+	margin-bottom: : 40px;
+	background-color: orange;
+	float: left;
+}
+.box4{
+	height: 200px;
+	width: 30%;
+	margin: 0 5% 40px 0;
+	background-color: orange;
+	float: left;
+}
+.box5{
+	height: 200px;
+	width: 30%;
+	margin: 0 5% 40px 0;
+	background-color: red;
+	float: left;
+}
+.box6{
+	height: 200px;
+	width: 30%;
+	margin-bottom: : 40px;
+	background-color: orange;
+	float: left;
+}
+.box7{
+	height: 200px;
+	width: 30%;
+	margin: 0 5% 40px 0;
+	background-color: orange;
+	float: left;
+}
+.box8{
+	height: 200px;
+	width: 30%;
+	margin: 0 5% 40px 0;
+	background-color: orange;
+	float: left;
+}
+.box9{
+	height: 200px;
+	width: 30%;
+	margin-bottom: 40px;
+	background-color: red;
+	float: left;
+}
+
